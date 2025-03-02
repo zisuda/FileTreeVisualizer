@@ -1,5 +1,6 @@
 # FileTree Visualizer
 
+![Snipaste_2025-03-02_13-57-47](https://github.com/user-attachments/assets/2f0b070c-b544-4591-9357-ac9469e38cc7)
 
 
 ## 项目概述
@@ -103,7 +104,7 @@ FileTree Visualizer 在多种场景下具有广泛的实用价值：
 
 ### 扫码关注：
 
-![Uploading 更多创业项目请关注公众号【资速达】.jpg…]()
+![更多创业项目请关注公众号【资速达】](https://github.com/user-attachments/assets/26e0d970-7c4a-4607-9c16-aecf5702bf54)
 
 
 这是获取已编译版本的最便捷方式，下载后无需任何配置，下载后直接打开软件即可使用。
